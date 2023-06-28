@@ -3,7 +3,7 @@ resource "azurerm_resource_group" "example" {
     location = "West US"
     tags = {
         "test"        = "foo3"
-        "test2"       = "bar2"
+        "test2"       = "1234"
     }
 }
 
